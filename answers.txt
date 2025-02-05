@@ -7,3 +7,8 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: Virtually any - medicine, machine learning, political science, et cetera. For example, in machine learning 
 you would use data science by enabling algorithms to learn about data.
+
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging is used to combine branches into one merged commit, whereas rebasing writes one branch's history onto another. 
