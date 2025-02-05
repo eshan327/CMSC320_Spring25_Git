@@ -11,4 +11,9 @@ you would use data science by enabling algorithms to learn about data.
 
 Q3: What is the difference between Merging and Rebasing?
 
-Answer: Merging is used to combine branches into one merged commit, whereas rebasing writes one branch's history onto another. 
+Answer: Merging is used to combine branches into one merged commit, whereas rebasing writes one branch's history onto another.
+
+
+Q4: What are you looking forward to this semester?
+
+Answer: Learning more about relational databases through SQL and familiarizing myself with more Python libraries as well.
